@@ -1,5 +1,8 @@
 # btw5-switch - a simple script to modify the state of the Creative BT-W5 Bluetooth audio dongle on Linux
 
+### This is a fork of the originals
+This a modified version for better experience of using btw5-switch
+
 ## Usage:
 
 0. Install Python and [PyUSB](https://github.com/pyusb/pyusb) (on Debian/Ubuntu: `apt install python3-usb`)
